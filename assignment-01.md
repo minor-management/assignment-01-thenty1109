@@ -37,7 +37,7 @@ https://www.freshbooks.com/hub/reports/write-an-annual-report
 You have listed two potential companies and need to select one company to invest. 
 Comparing _Pentamaster Corporation Bhd._ and _ViTrox Corporation Bhd._ Justify your investment choice.
 I will choose to invest in ViTrox Corporation Bhd. This is because their revenue and net income is keep increasing annually and have great performance in these 3 years (2019-2021). Which means this company still has big growing space. Meanwhile, Pentamaster Corporation Bhd. one is like up and down, which is not stable.
-https://www.malaysiastock.biz/Corporate-Infomation.aspx?securityCode=7160
+https://www.malaysiastock.biz/Corporate-Infomation.aspx?securityCode=7160 ,
 https://www.malaysiastock.biz/Corporate-Infomation.aspx?securityCode=0097
 
 9. List down at least 2 investment resources (blogs/any media) that you found useful.
