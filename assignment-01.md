@@ -36,7 +36,8 @@ Comparing _Pentamaster Corporation Bhd._ and _ViTrox Corporation Bhd._ Justify y
 
 
 9. List down at least 2 investment resources (blogs/any media) that you found useful.
-
+i) malaysiastock.biz https://www.malaysiastock.biz/
+ii) Trading View https://www.tradingview.com/
 
 -- End -- <br>
 *Add 'Completed' as commit message after completing the assignment.
