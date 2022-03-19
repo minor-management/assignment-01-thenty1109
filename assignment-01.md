@@ -21,6 +21,9 @@ Kuala Lumpur Stock Exchange (KLSE)
 (a) ViTrox Corp <br>
 (b) Pentamaster Corp <br> 
 *There should be at least 6 PDF files. <br>
+(a）https://www.vitrox.com/investor/annual-report.php
+(b) https://pentamaster.listedcompany.com/ar.html
+
 
 6. Who are the users of annual reports?
 Current shareholders and potential investors
